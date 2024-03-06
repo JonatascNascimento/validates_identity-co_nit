@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors = ['JonatascNascimento']
   spec.email = ['jonatascn@gmail.com']
 
-  spec.summary = 'Validates Panama RUC Document and test it with matchers in a simple way.'
+  spec.summary = 'Validates Colombia NIT Document and test it with matchers in a simple way.'
   spec.homepage = 'https://github.com/JonatascNascimento/validates_identity-co_nit'
   spec.license = 'MIT'
   spec.required_ruby_version = '>= 2.6.0'
