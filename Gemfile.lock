@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    validates_identity-co_nit (0.1.0)
+    validates_identity-co_nit (0.1.1)
       activemodel
       validates_identity (>= 0.5.0)
 
@@ -110,6 +110,7 @@ GEM
       activemodel
 
 PLATFORMS
+  x86_64-darwin-21
   x86_64-linux
 
 DEPENDENCIES
@@ -122,4 +123,4 @@ DEPENDENCIES
   validates_identity-co_nit!
 
 BUNDLED WITH
-   2.3.12
+   2.5.6
