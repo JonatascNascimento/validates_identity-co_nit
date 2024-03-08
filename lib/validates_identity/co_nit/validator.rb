@@ -21,7 +21,7 @@ class ValidatesIdentity
       def formatted
         return if result.nil?
 
-        "#{result[1]}-#{result[2]}-#{result[3]}"
+        "#{result[1]}.#{result[2]}.#{result[3]}-#{verifier_digit}"
       end
 
       private
