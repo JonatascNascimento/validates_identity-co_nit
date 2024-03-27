@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    validates_identity-co_nit (0.1.1)
+    validates_identity-co_nit (0.2.0)
       activemodel
       validates_identity (>= 0.5.0)
 
